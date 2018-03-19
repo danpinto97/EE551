@@ -26,8 +26,8 @@ count = 0
 #print body.text
 all_links = soup.find_all("a")
 for link in all_links:
-	f.write(str(link.get("name")))
-	f.write(str('\n'))
+	# f.write(str(link.get("name")))
+	# f.write(str('\n'))
 	f.write(l[count])
 	f.write(str('\n'))
 	count = count + 1
