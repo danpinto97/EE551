@@ -1,0 +1,3761 @@
+
+
+
+  INITIAL DRAFT
+  
+  2016 Fall
+  
+  UNDERGRADUATE
+  
+  Course Schedule
+  
+
+  Last updated: 03/08/17 12:00PM EDT
+  
+  Course scheduling information for 2016 Fall UNDERGRADUATE
+  courses at Stevens Institute of Technology is presented below.
+  
+  If you have any questions about the
+  
+  SCHEDULING INFORMATION (day, time or location)
+  
+  , please contact the Office of the Registrar, (201)216-5210.
+  If you have any questions about the
+  
+  COURSE OFFERINGS
+  
+  , please contact the appropriate
+  
+  ACADEMIC DEPARTMENT
+  
+  .
+  
+  Registration can be performed via
+  Web for Students
+  (provided you don't have a registration hold)
+  using the 5-digit course call number listed for each section.
+  
+
+  Please note that this schedule is subject to change prior to the
+  start of enrollment.  Courses with day/time listed as 'TBA' will be
+  assigned meeting times as we approach the start of the registration period.
+  Additionally, more instructor and classroom assignments will be forth
+  coming as the semester approaches. 
+
+
+  Day of Week Codes:
+  M = Monday; T = Tuesday; W = Wednesday; R = Thursday; F = Friday;
+  S = Saturday; U = Sunday
+  
+ACADEMIC DEPARTMENTSBIO -    Biology
+BME -    Biomedical Engineering             (201)216-5546
+BT -      Business and Technology            (201)216-5424
+CAL -    College of Arts & Letters          (201)216-5398
+CE -      Civil Engineering                  (201)216-8233
+CH -      Chemistry                          (201)216-5528
+CHE -    Chemical Engineering               (201)216-5546
+CM -      Construction Management            (201)216-8233
+CPE -    Computer Engineering               (201)216-5623
+CS -      Computer Science                   (201)216-5328
+D -        Dean's Offices                     (201)216-5228/5368
+E -        Interdepartmental Engineering      (201)216-5263
+EE -      Electrical Engineering             (201)216-5623
+EM -      Engineering Management             (201)216-8025
+EN -      Environmental Engineering          (201)216-8233
+ES -      Enterprise Systems                 (201)216-8025
+FE -      Financial Engineering              (201)216-8025
+FIN -    Finance
+HAR -    Humanities/Art                     (201)216-5398
+HHS -    Humanities/History                 (201)216-5398
+HLI -    Humanities/Literature              (201)216-5398
+HMU -    Humanities/Music                   (201)216-5398
+HPL -    Humanities/Philosophy              (201)216-5398
+HSS -    Humanities/Social Sciences         (201)216-5398
+HST -    Humanities/Science and Technology
+HTH -    Humanities/Theater
+LFR -    Language/French
+LSP -    Language/Spanish
+MA -      Mathematics                        (201)216-5449
+ME -      Mechanical Engineering             (201)216-5592
+MGT -    Management                         (201)216-5384
+MIS -    Information Systems                (201)216-5384
+MT -      Materials Engineering              (201)216-5268
+NANO -  Nanotechnology                     (201)216-5665
+NE -      Naval Engineering                  (201)216-8233
+NIS -    Networked Information Systems      (201)216-5623
+OE -      Ocean Engineering                  (201)216-8233
+PE -      Physical Education                 (201)216-5689
+PEP -    Physics & Engineering Physics      (201)216-5665
+PIN -    Pinnacle Scholar
+PME -    Pharmaceutical Manufacturing       (201)216-5592
+PRV -    Provost                            (201)216-5263
+QF -      Quantitative Finance               (201)216-5424
+REG -    Registrar                          (201)216-8030
+SM -      Sustainability Management
+SOC -    Service Oriented Computing         (201)216-5328
+SSW -    Software Engineering               (201)216-8025
+TG -      Technogenesis                      (201)216-5263
+
+BIO -   Biology
+
+  BIO 583A   Physiology
+  Call #:    Instructor: Kumbaraci N
+  12006      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00006
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        06:15PM  08:45PM  McLean           119
+ 
+  
+  
+
+BME -   Biomedical Engineering             (201)216-5546
+
+  BME 306A   Intro to Biomedical Engineering
+  Call #:    Instructor: Gray M
+  10026      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00037  Available: 00018
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        05:00PM  05:50PM  McLean           414
+             R        10:00AM  11:40AM  McLean           414
+ 
+  
+  BME 322A   Engineering Design VI
+  Call #:    Instructor: Vinjamuri R
+  10027      Credits:  2.00 -  2.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        09:00AM  11:50AM  McLean           106
+ 
+             Prerequisite(s):
+             E232
+  
+  BME 322B   Engineering Design VI
+  Call #:    Instructor: Vinjamuri R
+  12051      Credits:  2.00 -  2.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00015
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        09:00AM  11:50AM  Babbio Center    320
+ 
+             Prerequisite(s):
+             E232
+  
+  BME 342A   Transport in Biological Systems
+  Call #:    Instructor: Perlman C
+  10028      Credits:  4.00 -  4.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        11:00AM  12:40PM  Kidde            360
+             F        12:00PM  12:50PM  Kidde            360
+ 
+             Prerequisite(s):
+             MA227
+             Corequisite(s):
+             BME306
+  
+  BME 342LA  Transport in Biological Systems
+  Call #:    Instructor: Yu X
+  10029      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        04:00PM  06:00PM  Morton           103
+             R        06:00PM  06:50PM  McLean           003
+ 
+             Prerequisite(s):
+             MA227
+             Corequisite(s):
+             BME306
+  
+  BME 342LB  Transport in Biological Systems
+  Call #:    Instructor: Yu X
+  10030      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        01:00PM  03:50PM  Babbio Center    221
+ 
+             Prerequisite(s):
+             MA227
+             Corequisite(s):
+             BME306
+  
+  BME 423A   Engineering Design VII
+  Call #:    Instructor: Hazelwood V
+  10031      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       03:00PM  05:00PM  E. A. Stevens    229A
+ 
+             Prerequisite(s):
+             BME322, BME342, BME505 and BME506
+             Corequisite(s):
+             BME482
+  
+  BME 423B   Engineering Design VII
+  Call #:    Instructor: Valdevit A
+  10032      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MW       11:00AM  01:00PM  Babbio Center    204
+ 
+             Prerequisite(s):
+             BME322, BME342, BME505 and BME506
+             Corequisite(s):
+             BME482
+  
+  BME 423X   Engineering Design VII
+  Call #:    Instructor: Williams E
+  12404      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00028
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       03:00PM  05:00PM
+ 
+             Prerequisite(s):
+             BME322, BME342, BME505 and BME506
+             Corequisite(s):
+             BME482
+  
+  BME 453A   Bioethics
+  Call #:    Instructor: Blank H
+  10037      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00004
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        06:15PM  08:45PM  McLean           510
+ 
+             Corequisite(s):
+             BME306
+  
+  BME 460A   Biomed Digital Signal ProcessLab
+  Call #:    Instructor: Ascione A
+  10038      Credits:  2.00 -  2.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00003
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        06:15PM  08:45PM  McLean           105
+ 
+             Prerequisite(s):
+             E232 and E245
+  
+  BME 482A   Engineering Physiology
+  Call #:    Instructor: Ritter A
+  10039      Credits:  4.00 -  4.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00012
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MWF      09:00AM  09:50AM  Babbio Center    203
+ 
+             Prerequisite(s):
+             BME342, CH381
+  
+  BME 482B   Engineering Physiology
+  Call #:    Instructor: McConnell G
+  10040      Credits:  4.00 -  4.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MWF      09:00AM  09:50AM  Morton           205
+ 
+             Prerequisite(s):
+             BME342, CH381
+  
+  BME 482LA  Engineering Physiology
+  Call #:    Instructor: Ritter A
+  10041      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        12:00PM  02:50PM  McLean           003
+ 
+             Prerequisite(s):
+             BME342, CH381
+  
+  BME 482LB  Engineering Physiology
+  Call #:    Instructor: Ritter A
+  10042      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00012
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        09:00AM  11:50AM  McLean           003
+ 
+             Prerequisite(s):
+             BME342, CH381
+  
+  BME 482LC  Engineering Physiology
+  Call #:    Instructor: Ritter A
+  10043      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        01:00PM  03:50PM  Morton           205
+ 
+             Prerequisite(s):
+             BME342, CH381
+  
+  BME 498A   Research in BME I
+  Call #:    Instructor: STAFF
+  10044      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Prerequisite(s):
+             Permission of Department
+  
+  BME 504WS  Medical Instrumentation&Imaging;
+  Call #:    Instructor: Man H
+  11988      Credits:  3.00 -  3.00
+             Session: WebCampus            08/29/2016-12/19/2016
+             Cross-Listed with CPE 585WS
+             Enrollment Cap: 00099  Available: 00063
+             Status: Open
+ 
+             This section is offered at: www.WebCampus.stevens.edu
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        Off-Campus       WEB
+ 
+             Prerequisite(s):
+             BME306 and BME322 and E232
+             Course note(s):
+             Not for graduate credit for department majors.
+  
+  BME 505A-U Biomaterials
+  Call #:    Instructor: Wang H
+  10046      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00004
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        06:15PM  08:45PM  McLean           218A
+ 
+             Prerequisite(s):
+             E344 or equivalent
+             Corequisite(s):
+             BME 306
+             Course note(s):
+             Not for graduate credit for department majors.
+  
+  BME 505LA  Biomaterials
+  Call #:    Instructor: Kambic H
+  10047      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00015  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        06:15PM  08:45PM  McLean           414
+ 
+             Prerequisite(s):
+             E344 or equivalent
+             Corequisite(s):
+             BME 306
+             Course note(s):
+             Not for graduate credit for department majors.
+  
+  BME 505LB  Biomaterials
+  Call #:    Instructor: Kambic H
+  10048      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00015  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        03:00PM  05:50PM  McLean           414
+ 
+             Prerequisite(s):
+             E344 or equivalent
+             Corequisite(s):
+             BME 306
+             Course note(s):
+             Not for graduate credit for department majors.
+  
+  BME 506A-U Biomechanics
+  Call #:    Instructor: Kambic H
+  11800      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00011
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        06:15PM  08:45PM  E. A. Stevens    330
+ 
+             Prerequisite(s):
+             BME306 and BME432
+             Corequisite(s):
+             BME505
+             Course note(s):
+             Not for graduate credit for department majors.
+  
+  BME 556A   Advanced Biomechanics
+  Call #:    Instructor: Shady S
+  10050      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00025  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        06:15PM  08:45PM  McLean           218B
+ 
+             Prerequisite(s):
+             BME 506 Biomechanics , BME 505 Biomaterials, Knowledge of, or courses in
+  
+  BME 556B   Advanced Biomechanics
+  Call #:    Instructor: Shady S
+  10051      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00025  Available: 00017
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        06:15PM  08:45PM  E. A. Stevens    130
+ 
+             Prerequisite(s):
+             BME 506 Biomechanics , BME 505 Biomaterials, Knowledge of, or courses in
+  
+  BME 665WS  Pathophysiology
+  Call #:    Instructor: Joyce N
+  12005      Credits:  3.00 -  3.00
+             Session: WebCampus            08/29/2016-12/19/2016
+             Enrollment Cap: 00030  Available: 00011
+             Status: Open
+ 
+             This section is offered at: www.WebCampus.stevens.edu
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        Off-Campus       WEB
+ 
+             Prerequisite(s):
+             A course in Human Physiology
+             Course note(s):
+             Web Campus course.
+  
+  
+
+BT -     Business and Technology            (201)216-5424
+
+  BT  181A   Seminar in Business
+  Call #:    Instructor: Murphy A
+  11805      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00045  Available: 00012
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        09:00AM  09:50AM  Babbio Center    319
+ 
+  
+  BT  200A   Financial Accounting
+  Call #:    Instructor: Henry E
+  11806      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00001
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        10:00AM  11:40AM  Babbio Center    310
+             W        10:00AM  10:50AM  Babbio Center    310
+ 
+  
+  BT  200B   Financial Accounting
+  Call #:    Instructor: Henry E
+  11807      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        01:00PM  02:40PM  Pierce           120
+             W        11:00AM  11:50AM  Pierce           120
+ 
+  
+  BT  214A   Marketing Analytics & Research
+  Call #:    Instructor: Sabnis G
+  11808      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00018
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        01:00PM  01:50PM  Morton           103
+             W        11:00AM  12:40PM  Babbio Center    110
+ 
+             Prerequisite(s):
+             BT 221 and BT 350 are required.
+  
+  BT  221A   Statistics
+  Call #:    Instructor: Russ L
+  11809      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00050  Available: 00028
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        10:00AM  11:40AM  Babbio Center    220
+             R        01:00PM  01:50PM  Babbio Center    220
+ 
+  
+  BT  221B   Statistics
+  Call #:    Instructor: Anderson R
+  11810      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00050  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        03:00PM  04:40PM  Carnegie Lab     316
+             R        03:00PM  03:50PM  Carnegie Lab     316
+ 
+  
+  BT  221C   Statistics
+  Call #:    Instructor: Russ L
+  11811      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00048  Available: 00018
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        01:00PM  02:40PM  McLean           104
+             R        10:00AM  10:50AM  McLean           104
+ 
+  
+  BT  221D   Statistics
+  Call #:    Instructor: Stinerock R
+  12169      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00050  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        03:00PM  04:40PM  Babbio Center    320
+             R        03:00PM  03:50PM  Babbio Center    320
+ 
+  
+  BT  223A   Applied Models & Simulation
+  Call #:    Instructor: Ryan K
+  11812      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00045  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        10:00AM  11:40AM  E. A. Stevens    230
+             R        09:00AM  09:50AM  E. A. Stevens    230
+ 
+             Prerequisite(s):
+             MA117
+  
+  BT  223B   Applied Models & Simulation
+  Call #:    Instructor: Ryan K
+  11813      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00045  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        01:00PM  02:40PM  Babbio Center    104
+             R        10:00AM  10:50AM  Babbio Center    104
+ 
+             Prerequisite(s):
+             MA117
+  
+  BT  243A   Macroeconomics
+  Call #:    Instructor: Koeller C
+  11814      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        11:00AM  11:50AM  McLean           218B
+             RF       01:00PM  01:50PM  McLean           218B
+ 
+  
+  BT  243B   Macroeconomics
+  Call #:    Instructor: Saad-Lessler J
+  11815      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00041  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        09:00AM  10:40AM  Pierce           116
+             R        09:00AM  09:50AM  McLean           105
+ 
+  
+  BT  244A   Microeconomics
+  Call #:    Instructor: Koeller C
+  11816      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00054  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MWF      10:00AM  10:50AM  E. A. Stevens    230
+ 
+  
+  BT  244B   Microeconomics
+  Call #:    Instructor: Koeller C
+  11817      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MWF      11:00AM  11:50AM  McLean           218B
+ 
+  
+  BT  244C   Microeconomics
+  Call #:    Instructor: Saad-Lessler J
+  12096      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00003
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        12:00PM  01:40PM  Babbio Center    202
+             W        09:00AM  09:50AM  Babbio Center    202
+ 
+  
+  BT  244D   Microeconomics
+  Call #:    Instructor: Anderson R
+  11819      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00055  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        02:00PM  03:40PM  Kidde            228
+             W        12:00PM  12:50PM  Kidde            228
+ 
+  
+  BT  244E   Microeconomics
+  Call #:    Instructor: Anderson R
+  11820      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00052  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        12:00PM  01:40PM  Carnegie Lab     315
+             R        04:00PM  04:50PM  Babbio Center    122
+ 
+  
+  BT  244F   Microeconomics
+  Call #:    Instructor: Anderson R
+  11821      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        02:00PM  03:40PM  Kidde            228
+             W        12:00PM  12:50PM  Kidde            228
+ 
+  
+  BT  244G   Microeconomics
+  Call #:    Instructor: Gonzalez-Corzo
+  12168      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00009
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        12:00PM  01:40PM  Babbio Center    203
+             R        04:00PM  04:50PM  Babbio Center    203
+ 
+  
+  BT  290A   Business Career Seminar
+  Call #:    Instructor: Murphy A
+  11721      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00033  Available: 00012
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        09:00AM  09:50AM  Babbio Center    204
+ 
+  
+  BT  290B   Business Career Seminar
+  Call #:    Instructor: Murphy A
+  11722      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00033  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        10:00AM  10:50AM  Babbio Center    321
+ 
+  
+  BT  321A   Corporate Finance
+  Call #:    Instructor: Verthelyi R
+  11822      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00017
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        12:00PM  12:50PM  Babbio Center    202
+             R        09:00AM  10:40AM  Babbio Center    202
+ 
+  
+  BT  321B   Corporate Finance
+  Call #:    Instructor: Ghoddusi H
+  11823      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00003
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        02:00PM  02:50PM  Babbio Center    210
+             R        11:00AM  12:40PM  Babbio Center    210
+ 
+  
+  BT  330A   Social Psychology & Org Behavior
+  Call #:    Instructor: Murphy A
+  11824      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        01:00PM  02:40PM  Babbio Center    321
+             R        02:00PM  02:50PM  Babbio Center    321
+ 
+  
+  BT  330B   Social Psychology & Org Behavior
+  Call #:    Instructor: Aronson Z
+  11825      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00008
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        03:00PM  04:40PM  Babbio Center    221
+             R        04:00PM  04:50PM  Babbio Center    310
+ 
+  
+  BT  344A   Intermediate Microeconomics
+  Call #:    Instructor: Saad-Lessler J
+  12113      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00006  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        01:00PM  02:40PM  Babbio Center    212
+             R        10:00AM  10:50AM  Babbio Center    212
+ 
+             Prerequisite(s):
+             BT 244 is required.
+  
+  BT  350A   Marketing
+  Call #:    Instructor: Sabnis G
+  11827      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00004
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        09:00AM  10:40AM  Morton           103
+             W        09:00AM  09:50AM  Babbio Center    104
+ 
+  
+  BT  350B   Marketing
+  Call #:    Instructor: Kanter C
+  11828      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        11:00AM  12:40PM  Babbio Center    321
+             W        10:00AM  10:50AM  Babbio Center    321
+ 
+  
+  BT  353A   Project Management
+  Call #:    Instructor: Rohmeyer P
+  11829      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00032  Available: 00003
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        01:00PM  01:50PM  Babbio Center    310
+             W        11:00AM  12:40PM  Babbio Center    310
+ 
+             Prerequisite(s):
+             Junior or Senior Standing
+  
+  BT  353B   Project Management
+  Call #:    Instructor: Dool R
+  11830      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00001
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        06:15PM  08:45PM  Babbio Center    320
+ 
+             Prerequisite(s):
+             Junior or Senior Standing
+  
+  BT  353C   Project Management
+  Call #:    Instructor: Ashmen R
+  11831      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        03:00PM  04:40PM  Babbio Center    310
+             R        11:00AM  11:50AM  Babbio Center    221
+ 
+             Prerequisite(s):
+             Junior or Senior Standing
+  
+  BT  353D   Project Management
+  Call #:    Instructor: Lombardi D
+  11832      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00025  Available: 00025
+             Status: CANCELLED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        11:00AM  11:50AM  Babbio Center    220
+             T        03:00PM  04:40PM  Babbio Center    220
+ 
+             Prerequisite(s):
+             Junior or Senior Standing
+  
+  BT  353E   Project Management
+  Call #:    Instructor: Crilly M
+  11833      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00019  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        06:15PM  08:45PM  Babbio Center    321
+ 
+             Prerequisite(s):
+             Junior or Senior Standing
+  
+  BT  360A   International Business
+  Call #:    Instructor: Guth W
+  11834      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00011
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        12:00PM  12:50PM  Babbio Center    321
+             T        09:00AM  10:40AM  Babbio Center    321
+ 
+  
+  BT  360B   International Business
+  Call #:    Instructor: Guth W
+  11835      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        11:00AM  12:40PM  Pierce           116
+             R        01:00PM  01:50PM  Pierce           116
+ 
+  
+  BT  401A   Capital Struct. & Strategy Audit
+  Call #:    Instructor: Calhoun G
+  11836      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00055  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        01:00PM  01:50PM  Babbio Center    104
+             T        11:00AM  12:40PM  Babbio Center    104
+ 
+             Prerequisite(s):
+             BT101, BT102, BT201, BT202, BT301 & BT302
+  
+  BT  411A   Senior Design I
+  Call #:    Instructor: Harquail C
+  11837      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00055  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        10:00AM  10:50AM  Babbio Center    104
+             M        11:00AM  12:40PM  Babbio Center    104
+ 
+             Prerequisite(s):
+             Must be a senior.
+  
+  BT  421A   Systems Analysis and Design
+  Call #:    Instructor: Asakiewicz C
+  11838      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        01:00PM  01:50PM  E. A. Stevens    329
+             T        03:00PM  04:40PM  E. A. Stevens    329
+ 
+             Prerequisite(s):
+             Junior or Senior standing.
+  
+  BT  426A   Equity Valuation
+  Call #:    Instructor: Kaufman J
+  11839      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        03:00PM  03:50PM  Babbio Center    321
+             W        11:00AM  12:40PM  Babbio Center    321
+ 
+  
+  BT  435A   Social Media & Network Analysis
+  Call #:    Instructor: Nickerson J
+  11840      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00045  Available: 00004
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        09:00AM  09:50AM  Babbio Center    319
+             T        09:00AM  10:40AM  Babbio Center    319
+ 
+  
+  BT  440A   Money,Banking & Financial Inst
+  Call #:    Instructor: Bonini S
+  11841      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00045  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        12:00PM  12:50PM  E. A. Stevens    222
+             T        09:00AM  10:40AM  E. A. Stevens    222
+ 
+             Prerequisite(s):
+             BT321
+  
+  BT  447A   Creativity and Innovation
+  Call #:    Instructor: Chen Y
+  12112      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00035  Available: 00020
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        03:00PM  03:50PM  Babbio Center    203
+             M        02:00PM  03:40PM  Babbio Center    203
+ 
+  
+  BT  465A   IntegratedMarketingCommunication
+  Call #:    Instructor: Garibaldi S
+  11842      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00050  Available: 00022
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        06:15PM  08:45PM  Babbio Center    221
+ 
+  
+  BT  499A   Independent Study
+  Call #:    Instructor: STAFF
+  11843      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00029
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Prerequisite(s):
+             Permission of Department
+  
+  
+
+CAL -   College of Arts & Letters          (201)216-5398
+
+  CAL 101A   English Skills
+  Call #:    Instructor: Corcoran D
+  10102      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00015  Available: 00004
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MW       10:00AM  11:40AM  Burchard         714
+ 
+  
+  CAL 101B   English Skills
+  Call #:    Instructor: Ashmeade R
+  10103      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00015  Available: 00007
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        03:00PM  04:40PM  Pierce           218
+             R        03:00PM  04:40PM  Altorfer         501
+ 
+  
+  CAL 101C   English Skills
+  Call #:    Instructor: Balog Z
+  10104      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00015  Available: 00007
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TF       12:00PM  01:40PM  McLean           119
+ 
+  
+  CAL 103A   Writing & Communications
+  Call #:    Instructor: Hammerman R
+  10105      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00019  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        10:00AM  11:40AM  Morton           105
+             W        10:00AM  10:50AM  Morton           105
+ 
+  
+  CAL 103B   Writing & Communications
+  Call #:    Instructor: Hammerman R
+  11665      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        10:00AM  11:40AM  E. A. Stevens    329
+             R        11:00AM  11:50AM  E. A. Stevens    329
+ 
+  
+  CAL 103C   Writing & Communications
+  Call #:    Instructor: Hammerman R
+  10106      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        01:00PM  02:40PM  Babbio Center    310
+             R        01:00PM  01:50PM  Babbio Center    310
+ 
+  
+  CAL 103D   Writing & Communications
+  Call #:    Instructor: Hammerman R
+  10107      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00019  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        12:00PM  01:40PM  Burchard         714
+             W        12:00PM  12:50PM  Burchard         714
+ 
+  
+  CAL 103E   Writing & Communications
+  Call #:    Instructor: Middleton B
+  10108      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        10:00AM  10:50AM  Pierce           218
+             F        10:00AM  11:40AM  Pierce           218
+ 
+  
+  CAL 103F   Writing & Communications
+  Call #:    Instructor: Middleton B
+  10109      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        11:00AM  12:40PM  Morton           205
+             F        12:00PM  12:50PM  Morton           205
+ 
+  
+  CAL 103G   Writing & Communications
+  Call #:    Instructor: Middleton B
+  10110      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00019  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        12:00PM  01:40PM  McLean           414
+             F        01:00PM  01:50PM  McLean           414
+ 
+  
+  CAL 103H   Writing & Communications
+  Call #:    Instructor: McBryan J
+  10111      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        02:00PM  03:40PM  Babbio Center    219
+             F        02:00PM  02:50PM  E. A. Stevens    230
+ 
+  
+  CAL 103I   Writing & Communications
+  Call #:    Instructor: Horgan J
+  10112      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        01:00PM  01:50PM  Morton           105
+             R        01:00PM  02:40PM  Morton           105
+ 
+  
+  CAL 103J   Writing & Communications
+  Call #:    Instructor: Jani D
+  10113      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00015  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        03:00PM  04:40PM  Babbio Center    204
+             R        03:00PM  03:50PM  Babbio Center    204
+ 
+  
+  CAL 103K   Writing & Communications
+  Call #:    Instructor: Ogden B
+  10114      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        12:00PM  12:50PM  Babbio Center    220
+             F        12:00PM  01:40PM  Babbio Center    220
+ 
+  
+  CAL 103L   Writing & Communications
+  Call #:    Instructor: Whitney M
+  10115      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        01:00PM  02:40PM  Babbio Center    221
+             W        11:00AM  11:50AM  Babbio Center    221
+ 
+  
+  CAL 103M   Writing & Communications
+  Call #:    Instructor: Everett K
+  10116      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        09:00AM  09:50AM  McLean           218B
+             R        09:00AM  10:40AM  McLean           218B
+ 
+  
+  CAL 103N   Writing & Communications
+  Call #:    Instructor: Everett K
+  10117      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        11:00AM  11:50AM  Pierce           218
+             R        11:00AM  12:40PM  Pierce           218
+ 
+  
+  CAL 103O   Writing & Communications
+  Call #:    Instructor: Jani D
+  10118      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        09:00AM  10:40AM  Babbio Center    304
+             W        09:00AM  09:50AM  Babbio Center    304
+ 
+  
+  CAL 103P   Writing & Communications
+  Call #:    Instructor: Jani D
+  10119      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        01:00PM  02:40PM  E. A. Stevens    229A
+             W        12:00PM  12:50PM  E. A. Stevens    229A
+ 
+  
+  CAL 103Q   Writing & Communications
+  Call #:    Instructor: Jani D
+  10120      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        11:00AM  12:40PM  Babbio Center    204
+             R        11:00AM  11:50AM  Babbio Center    204
+ 
+  
+  CAL 103R   Writing & Communications
+  Call #:    Instructor: Whitney M
+  12145      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        10:00AM  11:40AM  E. A. Stevens    229A
+             R        10:00AM  10:50AM  E. A. Stevens    229A
+ 
+  
+  CAL 103S   Writing & Communications
+  Call #:    Instructor: Whitney M
+  12222      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        01:00PM  02:40PM  Morton           205
+             R        01:00PM  01:50PM  Morton           205
+ 
+  
+  CAL 105A   Knowledge, Nature, Culture
+  Call #:    Instructor: Ogden B
+  10122      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        09:00AM  10:40AM  Babbio Center    310
+             F        09:00AM  09:50AM  Babbio Center    310
+ 
+  
+  CAL 105B   Knowledge, Nature, Culture
+  Call #:    Instructor: Ogden B
+  10123      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        03:00PM  04:40PM  Babbio Center    210
+             F        03:00PM  03:50PM  Babbio Center    210
+ 
+  
+  CAL 105C   Knowledge, Nature, Culture
+  Call #:    Instructor: Vredenburg J
+  10124      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        09:00AM  10:40AM  Pierce           216
+             W        09:00AM  09:50AM  Morton           105
+ 
+  
+  CAL 105D   Knowledge, Nature, Culture
+  Call #:    Instructor: Vredenburg J
+  10125      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        02:00PM  03:40PM  Babbio Center    310
+             R        02:00PM  02:50PM  Babbio Center    310
+ 
+  
+  CAL 105E   Knowledge, Nature, Culture
+  Call #:    Instructor: Everett K
+  10126      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        10:00AM  11:40AM  McLean           414
+             F        10:00AM  10:50AM  McLean           414
+ 
+  
+  CAL 105F   Knowledge, Nature, Culture
+  Call #:    Instructor: Swindall L
+  10127      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        10:00AM  11:40AM  Babbio Center    210
+             R        10:00AM  10:50AM  Babbio Center    219
+ 
+  
+  CAL 105G   Knowledge, Nature, Culture
+  Call #:    Instructor: Swindall L
+  10128      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        01:00PM  02:40PM  Babbio Center    221
+             R        01:00PM  01:50PM  Babbio Center    221
+ 
+  
+  CAL 105H   Knowledge, Nature, Culture
+  Call #:    Instructor: Mullan J
+  10129      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        02:00PM  03:40PM  McLean           119
+             R        02:00PM  02:50PM  McLean           105
+ 
+  
+  CAL 105I   Knowledge, Nature, Culture
+  Call #:    Instructor: Mullan J
+  10130      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00000  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        12:00PM  01:40PM  E. A. Stevens    229
+             W        12:00PM  12:50PM  E. A. Stevens    229
+ 
+  
+  CAL 105J   Knowledge, Nature, Culture
+  Call #:    Instructor: Bush D
+  10131      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MR       02:00PM  02:50PM  Babbio Center    219
+             T        02:00PM  02:50PM  Babbio Center    203
+ 
+  
+  CAL 105K   Knowledge, Nature, Culture
+  Call #:    Instructor: McBryan J
+  10132      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        11:00AM  12:40PM  Babbio Center    221
+             F        11:00AM  11:50AM  Babbio Center    221
+ 
+  
+  CAL 105L   Knowledge, Nature, Culture
+  Call #:    Instructor: Dobbins G
+  10133      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TWR      10:00AM  10:50AM  Babbio Center    304
+ 
+  
+  CAL 105M   Knowledge, Nature, Culture
+  Call #:    Instructor: Dobbins G
+  10134      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TWR      11:00AM  11:50AM  McLean           105
+ 
+  
+  CAL 105N   Knowledge, Nature, Culture
+  Call #:    Instructor: Rubenfeld A
+  10135      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00023  Available: 00001
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MWF      12:00PM  12:50PM  Babbio Center    221
+ 
+  
+  CAL 105O   Knowledge, Nature, Culture
+  Call #:    Instructor: Steinmann M
+  10136      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        02:00PM  03:40PM  McLean           106
+             R        02:00PM  02:50PM  McLean           119
+ 
+  
+  CAL 105P   Knowledge, Nature, Culture
+  Call #:    Instructor: MacPhail T
+  10137      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        11:00AM  12:40PM  Babbio Center    304
+             F        11:00AM  11:50AM  Babbio Center    304
+ 
+  
+  CAL 105Q   Knowledge, Nature, Culture
+  Call #:    Instructor: Vredenburg J
+  10138      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00022  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        03:00PM  03:50PM  Morton           105
+             R        03:00PM  04:40PM  Morton           105
+ 
+  
+  CAL 495D   Independent Study I
+  Call #:    Instructor: Cormack L
+  12157      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00029
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 495Q   Independent Study I
+  Call #:    Instructor: Vinsel L
+  12357      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00009
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 495V   Independent Study I
+  Call #:    Instructor: Bush D
+  12134      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00009
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA
+ 
+  
+  CAL 498A   Thesis Preparation
+  Call #:    Instructor: Brick A
+  10191      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00009
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498B   Thesis Preparation
+  Call #:    Instructor: STAFF
+  10192      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00030
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498C   Thesis Preparation
+  Call #:    Instructor: Dobbins G
+  10193      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498D   Thesis Preparation
+  Call #:    Instructor: Cormack L
+  10194      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498E   Thesis Preparation
+  Call #:    Instructor: Thompson J
+  10195      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498F   Thesis Preparation
+  Call #:    Instructor: Lytle A
+  10196      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498G   Thesis Preparation
+  Call #:    Instructor: Harari R
+  10197      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00006
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498H   Thesis Preparation
+  Call #:    Instructor: Horgan J
+  10198      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498I   Thesis Preparation
+  Call #:    Instructor: Karl K
+  10199      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498J   Thesis Preparation
+  Call #:    Instructor: Levin S
+  10200      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498K   Thesis Preparation
+  Call #:    Instructor: Staff A
+  10201      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498L   Thesis Preparation
+  Call #:    Instructor: Morgan G
+  10202      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498M   Thesis Preparation
+  Call #:    Instructor: MacPhail T
+  10203      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498N   Thesis Preparation
+  Call #:    Instructor: Pennino A
+  10204      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498O   Thesis Preparation
+  Call #:    Instructor: Manzione C
+  10205      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498P   Thesis Preparation
+  Call #:    Instructor: Rubenfeld A
+  10206      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498Q   Thesis Preparation
+  Call #:    Instructor: Vinsel L
+  10207      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00009
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498R   Thesis Preparation
+  Call #:    Instructor: Schept S
+  10208      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00009
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498S   Thesis Preparation
+  Call #:    Instructor: Sinnreich-Levi
+  10209      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498T   Thesis Preparation
+  Call #:    Instructor: Steinmann M
+  10210      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498U   Thesis Preparation
+  Call #:    Instructor: Wellerstein A
+  10211      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498V   Thesis Preparation
+  Call #:    Instructor: Bush D
+  10212      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498W   Thesis Preparation
+  Call #:    Instructor: Graham R
+  10213      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00009
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498X   Thesis Preparation
+  Call #:    Instructor: Durakoglu E
+  10214      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498Y   Thesis Preparation
+  Call #:    Instructor: Cluett S
+  10215      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00029
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 498Z   Thesis Preparation
+  Call #:    Instructor: O'Brien N
+  10216      Credits:  3.00 -  6.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Course note(s):
+             Open to Bachelor of Arts students.
+  
+  CAL 499A   Senior Thesis
+  Call #:    Instructor: Brick A
+  10217      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499B   Senior Thesis
+  Call #:    Instructor: STAFF
+  10218      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00030
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499C   Senior Thesis
+  Call #:    Instructor: Dobbins G
+  10219      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499D   Senior Thesis
+  Call #:    Instructor: Cormack L
+  10220      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499E   Senior Thesis
+  Call #:    Instructor: Thompson J
+  10221      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499F   Senior Thesis
+  Call #:    Instructor: Lytle A
+  10222      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499G   Senior Thesis
+  Call #:    Instructor: Harari R
+  10223      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499H   Senior Thesis
+  Call #:    Instructor: Horgan J
+  10224      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499I   Senior Thesis
+  Call #:    Instructor: Karl K
+  10225      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499J   Senior Thesis
+  Call #:    Instructor: Levin S
+  10226      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499K   Senior Thesis
+  Call #:    Instructor: Staff A
+  10227      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499L   Senior Thesis
+  Call #:    Instructor: Morgan G
+  10228      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499M   Senior Thesis
+  Call #:    Instructor: MacPhail T
+  10229      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499N   Senior Thesis
+  Call #:    Instructor: Pennino A
+  10230      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499O   Senior Thesis
+  Call #:    Instructor: Manzione C
+  10231      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499P   Senior Thesis
+  Call #:    Instructor: Rubenfeld A
+  10232      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499Q   Senior Thesis
+  Call #:    Instructor: Vinsel L
+  10233      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499R   Senior Thesis
+  Call #:    Instructor: Schept S
+  10234      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499S   Senior Thesis
+  Call #:    Instructor: Sinnreich-Levi
+  10235      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499T   Senior Thesis
+  Call #:    Instructor: Steinmann M
+  10236      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499U   Senior Thesis
+  Call #:    Instructor: Wellerstein A
+  10237      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499V   Senior Thesis
+  Call #:    Instructor: Bush D
+  10238      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499W   Senior Thesis
+  Call #:    Instructor: Graham R
+  10239      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499X   Senior Thesis
+  Call #:    Instructor: Durakoglu E
+  10240      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499Y   Senior Thesis
+  Call #:    Instructor: Cluett S
+  10241      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00030
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 499Z   Senior Thesis
+  Call #:    Instructor: O'Brien N
+  10242      Credits:  4.00 -  8.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+  
+  CAL 555EV  Engineering & Computer Ethics
+  Call #:    Instructor: Steinmann M
+  11689      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00004  Available: 00003
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        06:15PM  08:45PM  Morton           324
+ 
+             Prerequisite(s):
+             CAL539
+  
+  
+
+CE -     Civil Engineering                  (201)216-8233
+
+  CE  342A   Fluid Mechanics
+  Call #:    Instructor: Herrington T
+  10245      Credits:  4.00 -  4.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00075  Available: 00003
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       11:00AM  11:50AM  E. A. Stevens    222
+ 
+             Prerequisite(s):
+             E126
+  
+  CE  342LA  Fluid Mechanics
+  Call #:    Instructor: Su T
+  10246      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00024  Available: 00001
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        10:00AM  12:50PM  Morton           205
+ 
+             Prerequisite(s):
+             E126
+  
+  CE  342LB  Fluid Mechanics
+  Call #:    Instructor: Su T
+  10247      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00024  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        12:00PM  02:50PM  E. A. Stevens    330
+ 
+             Prerequisite(s):
+             E126
+  
+  CE  342LC  Fluid Mechanics
+  Call #:    Instructor: Su T
+  10248      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00024  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        01:00PM  03:50PM  E. A. Stevens    229
+ 
+             Prerequisite(s):
+             E126
+  
+  CE  342RA  Fluid Mechanics
+  Call #:    Instructor: Brunell L
+  10249      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        01:00PM  01:50PM  McLean           218A
+ 
+             Prerequisite(s):
+             E126
+  
+  CE  342RB  Fluid Mechanics
+  Call #:    Instructor: Herrington T
+  10250      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00037  Available: 00003
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        01:00PM  01:50PM  McLean           105
+ 
+             Prerequisite(s):
+             E126
+  
+  CE  381A   Civil Eng Measurement Lab
+  Call #:    Instructor: Brunell L
+  10251      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00050  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        12:00PM  12:50PM  Pierce           116
+ 
+  
+  CE  381LA  Civil Eng Measurement Lab
+  Call #:    Instructor: Brunell L
+  10252      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00050  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        09:00AM  11:50AM  Babbio Center    104
+ 
+  
+  CE  423A   Engineering Design VII
+  Call #:    Instructor: Brunell L
+  10253      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00056  Available: 00016
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       03:00PM  04:50PM  E. A. Stevens    330
+ 
+             Prerequisite(s):
+             Senior Standing
+  
+  CE  423X1  Engineering Design VII
+  Call #:    Instructor: Brunell L
+  10255      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Cross-Listed with CPE 423X1     EE  423X1     EM  423X1     ME  423X1     EN  423X1
+             Enrollment Cap: 00050  Available: 00017
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       03:00PM  04:50PM  E. A. Stevens    330
+ 
+             Prerequisite(s):
+             Senior Standing
+  
+  CE  423X2  Engineering Design VII
+  Call #:    Instructor: Englot B
+  10256      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Cross-Listed with ME  423X2     CPE 423X2     EE  423X2     EM  423X2
+             Enrollment Cap: X/L    Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        03:00PM  05:00PM  Burchard         517
+             R        03:00PM  05:00PM  Burchard         517
+ 
+             Prerequisite(s):
+             Senior Standing
+  
+  CE  423X3  Engineering Design VII
+  Call #:    Instructor: Williams E
+  10257      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Cross-Listed with EE  423X3     EM  423X3     ME  423X3
+             Enrollment Cap: 00000  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       03:00PM  05:00PM
+ 
+             Prerequisite(s):
+             Senior Standing
+  
+  CE  423Y   Engineering Design VII
+  Call #:    Instructor: STAFF
+  10258      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Cross-Listed with ME  423Y      CPE 423Y      EE  423Y      EM  423Y
+             Enrollment Cap: X/L    Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       03:00PM  05:00PM
+ 
+             Prerequisite(s):
+             Senior Standing
+  
+  CE  484A   Reinforced Concrete Design
+  Call #:    Instructor: Rutner M
+  10259      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00062  Available: 00011
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        09:00AM  09:50AM  E. A. Stevens    330
+             W        09:00AM  10:40AM  E. A. Stevens    330
+ 
+             Prerequisite(s):
+             CE373
+  
+  CE  486A   Structural Steel Design
+  Call #:    Instructor: Hassiotis S
+  10260      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00056  Available: 00005
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        02:00PM  03:40PM  Babbio Center    104
+             W        12:00PM  12:50PM  Babbio Center    104
+ 
+             Prerequisite(s):
+             CE373
+  
+  CE  501A-U Sem in Sustainability Management
+  Call #:    Instructor: Sarkar D
+  12193      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Cross-Listed with SM  501A-U    EN  501A-U
+             Enrollment Cap: X/L    Available: 00000
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        05:00PM  06:00PM  Altorfer         501
+ 
+  
+  CE  507A-U Perspective in Environmental Mgt
+  Call #:    Instructor: Sarkar D
+  12196      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Cross-Listed with SM  510A-U    EN  510A-U
+             Enrollment Cap: X/L    Available: 00000
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        06:15PM  08:45PM  Carnegie Lab     315
+ 
+  
+  CE  512A-U Statistical Meth in Sustainablty
+  Call #:    Instructor: Jagupilla S
+  12202      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Cross-Listed with SM  515A-U    EN  515A-U
+             Enrollment Cap: X/L    Available: 00000
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        06:15PM  08:45PM  Babbio Center    312
+ 
+  
+  CE  519A-U Structural Analysis
+  Call #:    Instructor: Hassiotis S
+  10262      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00016
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        06:15PM  08:45PM  Pierce           116
+ 
+             Prerequisite(s):
+             CE373 or Equivalent
+  
+  CE  521A   The Nature of Urban Design
+  Call #:    Instructor: Washburn A
+  10263      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Cross-Listed with ES  520A
+             Enrollment Cap: X/L    Available: 00000
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        06:15PM  08:45PM  Babbio Center    202
+ 
+  
+  CE  522A   Parametric Modeling in Urban Env
+  Call #:    Instructor: STAFF
+  11992      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Cross-Listed with ES  522A
+             Enrollment Cap: X/L    Available: 00000
+             Status: CANCELLED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        06:15PM  08:45PM
+ 
+  
+  CE  525A   Engineering Hydrology
+  Call #:    Instructor: Fassman Beck E
+  10264      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00021
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        05:45PM  08:45PM  Pierce           218
+ 
+  
+  CE  537A   Intro Geographic Info Systems
+  Call #:    Instructor: Jagupilla S
+  10265      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00026  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        06:00PM  09:00PM  Morton           105
+ 
+  
+  CE  561A   Introduction to Remote Sensing
+  Call #:    Instructor: Donskoy D
+  10267      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Cross-Listed with OE  560A      EE  560A      ME  524A
+             Enrollment Cap: X/L    Available: 00000
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        06:15PM  08:45PM  Davidson Lab     242
+ 
+             Course note(s):
+             Web Campus course.
+  
+  CE  576A-U Multi-Hazard Engineering
+  Call #:    Instructor: Herrington T
+  10269      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00003
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        06:15PM  08:15PM  Pierce           116
+ 
+             Prerequisite(s):
+             CE342 or equivalent and CE373 or equivalent
+  
+  CE  579A-U Adv Reinforced Concrete Struct.
+  Call #:    Instructor: Panayotidi T
+  11801      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00027
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        06:15PM  08:45PM  E. A. Stevens    222
+ 
+             Prerequisite(s):
+             CE 484 is required or equivalent.
+  
+  CE  596A   Transportation Systems Planning
+  Call #:    Instructor: Wakeman T
+  12151      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00020
+             Status: CANCELLED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        06:15PM  08:45PM  Pierce           218
+ 
+             Course note(s):
+             Web Campus course.
+  
+  
+
+CH -     Chemistry                          (201)216-5528
+
+  CH  115A   General Chemistry I
+  Call #:    Instructor: Muisener P
+  10281      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00180  Available: 00041
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       10:00AM  10:50AM  Kidde            228
+ 
+  
+  CH  115B   General Chemistry I
+  Call #:    Instructor: Muisener P
+  10282      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00180  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       11:00AM  11:50AM  Kidde            228
+ 
+  
+  CH  115C   General Chemistry I
+  Call #:    Instructor: Muisener P
+  10283      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00180  Available: 00018
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       02:00PM  02:50PM  Kidde            228
+ 
+  
+  CH  115RA  General Chemistry I
+  Call #:    Instructor: Sharma A
+  10284      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00009
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        08:00AM  08:50AM  Babbio Center    122
+ 
+  
+  CH  115RB  General Chemistry I
+  Call #:    Instructor: Agresti C
+  10285      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00001
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        08:00AM  08:50AM  Morton           103
+ 
+  
+  CH  115RC  General Chemistry I
+  Call #:    Instructor: Agresti C
+  10286      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00036  Available: 00016
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        09:00AM  09:50AM  Morton           103
+ 
+  
+  CH  115RD  General Chemistry I
+  Call #:    Instructor: Kang E
+  10287      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00001
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        09:00AM  09:50AM  McLean           105
+ 
+  
+  CH  115RE  General Chemistry I
+  Call #:    Instructor: Kang E
+  10288      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        10:00AM  10:50AM  McLean           105
+ 
+  
+  CH  115RF  General Chemistry I
+  Call #:    Instructor: Sharma A
+  10289      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00004
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        10:00AM  10:50AM  McLean           218A
+ 
+  
+  CH  115RG  General Chemistry I
+  Call #:    Instructor: Kang E
+  10290      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00036  Available: 00012
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        11:00AM  11:50AM  McLean           105
+ 
+  
+  CH  115RH  General Chemistry I
+  Call #:    Instructor: Agresti C
+  10291      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00036  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        11:00AM  11:50AM  McLean           106
+ 
+  
+  CH  115RI  General Chemistry I
+  Call #:    Instructor: Agresti C
+  10292      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00036  Available: 00012
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        12:00PM  12:50PM  McLean           218A
+ 
+  
+  CH  115RJ  General Chemistry I
+  Call #:    Instructor: Sharma A
+  10293      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00036  Available: 00011
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        12:00PM  12:50PM  McLean           414
+ 
+  
+  CH  115RK  General Chemistry I
+  Call #:    Instructor: Sharma A
+  10294      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00036  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        02:00PM  02:50PM  McLean           218B
+ 
+  
+  CH  115RL  General Chemistry I
+  Call #:    Instructor: Agresti C
+  12185      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00036  Available: 00006
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        02:00PM  02:50PM  McLean           106
+ 
+  
+  CH  115RM  General Chemistry I
+  Call #:    Instructor: Sharma A
+  10296      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00036  Available: 00012
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        03:00PM  03:50PM  McLean           218B
+ 
+  
+  CH  115RN  General Chemistry I
+  Call #:    Instructor: Agresti C
+  12186      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00036  Available: 00009
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        03:00PM  03:50PM  McLean           106
+ 
+  
+  CH  115RO  General Chemistry I
+  Call #:    Instructor: Sharma A
+  10298      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00036  Available: 00016
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        04:00PM  04:50PM  McLean           218B
+ 
+  
+  CH  115RP  General Chemistry I
+  Call #:    Instructor: Sharma A
+  12251      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00036  Available: 00014
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        08:00AM  08:50AM  Babbio Center    122
+ 
+  
+  CH  117A   General Chemistry Lab I
+  Call #:    Instructor: Kang E
+  10300      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00060  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        11:00AM  01:50PM  McLean           203
+ 
+             Corequisite(s):
+             CH107 or CH115
+  
+  CH  117B   General Chemistry Lab I
+  Call #:    Instructor: Kang E
+  10301      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00060  Available: 00005
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        08:00AM  10:50AM  McLean           203
+ 
+             Corequisite(s):
+             CH107 or CH115
+  
+  CH  117C   General Chemistry Lab I
+  Call #:    Instructor: Kang E
+  10302      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00060  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        11:00AM  01:50PM  McLean           203
+ 
+             Corequisite(s):
+             CH107 or CH115
+  
+  CH  117D   General Chemistry Lab I
+  Call #:    Instructor: Kang E
+  10303      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00060  Available: 00006
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        02:00PM  04:50PM  McLean           203
+ 
+             Corequisite(s):
+             CH107 or CH115
+  
+  CH  117E   General Chemistry Lab I
+  Call #:    Instructor: Kang E
+  10304      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00060  Available: 00007
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        08:00AM  10:50AM  McLean           203
+ 
+             Corequisite(s):
+             CH107 or CH115
+  
+  CH  117F   General Chemistry Lab I
+  Call #:    Instructor: Kang E
+  12241      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00060  Available: 00023
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        08:00AM  10:50AM  McLean           203
+ 
+             Corequisite(s):
+             CH107 or CH115
+  
+  CH  117G   General Chemistry Lab I
+  Call #:    Instructor: Kang E
+  10306      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00060  Available: 00001
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        11:00AM  01:50PM  McLean           203
+ 
+             Corequisite(s):
+             CH107 or CH115
+  
+  CH  117H   General Chemistry Lab I
+  Call #:    Instructor: Kang E
+  10307      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00060  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        02:00PM  04:50PM  McLean           203
+ 
+             Corequisite(s):
+             CH107 or CH115
+  
+  CH  117I   General Chemistry Lab I
+  Call #:    Instructor: Kang E
+  12240      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00000  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        11:00AM  01:50PM  McLean           203
+ 
+             Corequisite(s):
+             CH107 or CH115
+  
+  CH  117J   General Chemistry Lab I
+  Call #:    Instructor: Kang E
+  12250      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00060  Available: 00011
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        03:00PM  05:50PM  McLean           203
+ 
+             Corequisite(s):
+             CH107 or CH115
+  
+  CH  189A   Seminar in Chemistry and Biology
+  Call #:    Instructor: Liang J
+  10309      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00008
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        11:00AM  11:50AM  Babbio Center    304
+ 
+             Prerequisite(s):
+             By invitation or permission only
+  
+  CH  243A   Organic Chemistry I
+  Call #:    Instructor: Alluri S
+  10310      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00130  Available: 00011
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       12:00PM  12:50PM  Burchard         118
+ 
+             Prerequisite(s):
+             CH116 and CH118
+             Corequisite(s):
+             CH245
+  
+  CH  243RA  Organic Chemistry I
+  Call #:    Instructor: Alluri S
+  10311      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00033  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        09:00AM  09:50AM  McLean           105
+ 
+             Prerequisite(s):
+             CH116 and CH118
+             Corequisite(s):
+             CH245
+  
+  CH  243RB  Organic Chemistry I
+  Call #:    Instructor: Alluri S
+  10312      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00033  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        10:00AM  10:50AM  McLean           105
+ 
+             Prerequisite(s):
+             CH116 and CH118
+             Corequisite(s):
+             CH245
+  
+  CH  243RC  Organic Chemistry I
+  Call #:    Instructor: Alluri S
+  10313      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00033  Available: 00003
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        11:00AM  11:50AM  Babbio Center    104
+ 
+             Prerequisite(s):
+             CH116 and CH118
+             Corequisite(s):
+             CH245
+  
+  CH  243RD  Organic Chemistry I
+  Call #:    Instructor: Alluri S
+  10314      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00033  Available: 00014
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        12:00PM  12:50PM  McLean           414
+ 
+             Prerequisite(s):
+             CH116 and CH118
+             Corequisite(s):
+             CH245
+  
+  CH  245A   Organic Chemistry Lab I
+  Call #:    Instructor: Paliwal S
+  10315      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00025  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        09:00AM  12:50PM  McLean           219
+ 
+             Corequisite(s):
+             CH243
+  
+  CH  245B   Organic Chemistry Lab I
+  Call #:    Instructor: Paliwal S
+  10316      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00025  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        02:00PM  05:50PM  McLean           219
+ 
+             Corequisite(s):
+             CH243
+  
+  CH  245C   Organic Chemistry Lab I
+  Call #:    Instructor: Paliwal S
+  10317      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00025  Available: 00006
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        02:00PM  05:50PM  McLean           219
+ 
+             Corequisite(s):
+             CH243
+  
+  CH  245D   Organic Chemistry Lab I
+  Call #:    Instructor: Paliwal S
+  10318      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00025  Available: 00007
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        02:00PM  05:50PM  McLean           219
+ 
+             Corequisite(s):
+             CH243
+  
+  CH  245E   Organic Chemistry Lab I
+  Call #:    Instructor: Paliwal S
+  10319      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00025  Available: 00001
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        08:00AM  11:50AM  McLean           219
+ 
+             Corequisite(s):
+             CH243
+  
+  CH  360EV  Spectra & Structure
+  Call #:    Instructor: STAFF
+  10320      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00005  Available: 00005
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        06:15PM  08:45PM  McLean           118
+ 
+             Prerequisite(s):
+             CH241
+  
+  CH  362A   Instr. Anal-Spect/Chrom.
+  Call #:    Instructor: Attygalle A
+  10321      Credits:  4.00 -  4.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00004
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MWF      09:00AM  09:50AM  McLean           218B
+ 
+             Prerequisite(s):
+             CH116 and CH118
+  
+  CH  362LA  Instr. Anal-Spect/Chrom.
+  Call #:    Instructor: Attygalle A
+  10322      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00012  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        12:00PM  03:50PM  McLean           429
+ 
+             Prerequisite(s):
+             CH116 and CH118
+  
+  CH  362LB  Instr. Anal-Spect/Chrom.
+  Call #:    Instructor: Attygalle A
+  10323      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00012  Available: 00002
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        02:00PM  05:50PM  McLean           429
+ 
+             Prerequisite(s):
+             CH116 and CH118
+  
+  CH  362LC  Instr. Anal-Spect/Chrom.
+  Call #:    Instructor: Attygalle A
+  10324      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00012  Available: 00006
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        02:00PM  05:00PM  McLean           429
+ 
+             Prerequisite(s):
+             CH116 and CH118
+  
+  CH  381A   Cell Biology
+  Call #:    Instructor: Glavy J
+  10325      Credits:  4.00 -  4.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00115  Available: 00034
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MWF      08:00AM  08:50AM  E. A. Stevens    222
+ 
+             Prerequisite(s):
+             CH281
+  
+  CH  381LA  Cell Biology
+  Call #:    Instructor: Cattabiani T
+  10326      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00007
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        08:00AM  10:50AM  McLean           118
+ 
+             Prerequisite(s):
+             CH281
+  
+  CH  381LB  Cell Biology
+  Call #:    Instructor: Cattabiani T
+  10327      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00018
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        11:00AM  01:50PM  McLean           118
+ 
+             Prerequisite(s):
+             CH281
+  
+  CH  381LC  Cell Biology
+  Call #:    Instructor: Cattabiani T
+  10328      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00009
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        02:00PM  04:50PM  McLean           118
+ 
+             Prerequisite(s):
+             CH281
+  
+  CH  381LD  Cell Biology
+  Call #:    Instructor: Cattabiani T
+  10329      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00005
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             F        09:00AM  11:50AM  McLean           118
+ 
+             Prerequisite(s):
+             CH281
+  
+  CH  421A   Chemical Dynamics
+  Call #:    Instructor: Zhang Y
+  10330      Credits:  4.00 -  4.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        10:00AM  10:50AM  E. A. Stevens    229A
+             WF       10:00AM  10:50AM  E. A. Stevens    229
+ 
+             Prerequisite(s):
+             CH321 or E234 and MA221
+  
+  CH  421LA  Chemical Dynamics
+  Call #:    Instructor: Zhang Y
+  10331      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00011
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        12:00PM  03:50PM  McLean           523
+ 
+             Prerequisite(s):
+             CH321 or E234 and MA221
+  
+  CH  421LB  Chemical Dynamics
+  Call #:    Instructor: Zhang Y
+  11990      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00020  Available: 00010
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        02:00PM  05:50PM  McLean           523
+ 
+             Prerequisite(s):
+             CH321 or E234 and MA221
+  
+  CH  484A   Molecular Genetics
+  Call #:    Instructor: Glavy J
+  10332      Credits:  4.00 -  4.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00032  Available: 00003
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MF       11:00AM  11:50AM  McLean           414
+             R        09:00AM  09:50AM  McLean           414
+ 
+             Prerequisite(s):
+             CH281 and CH381
+  
+  CH  484LA  Molecular Genetics
+  Call #:    Instructor: Cattabiani T
+  10333      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00016  Available: 00003
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        10:00AM  12:50PM  McLean           323
+ 
+             Prerequisite(s):
+             CH281 and CH381
+  
+  CH  484LB  Molecular Genetics
+  Call #:    Instructor: Cattabiani T
+  10334      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00016  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        02:00PM  04:50PM  McLean           323
+ 
+             Prerequisite(s):
+             CH281 and CH381
+  
+  CH  496A   Chemistry Project I
+  Call #:    Instructor: Kumbaraci N
+  10335      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00005
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA
+ 
+             Course note(s):
+             Open to Junior and Senior students only.
+  
+  CH  497A   Chemistry Project II
+  Call #:    Instructor: Kumbaraci N
+  10336      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00009
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA
+ 
+             Prerequisite(s):
+             Junior or Senior standing
+             Course note(s):
+             Open to Junior and Senior students only.
+  
+  CH  498A   Chemical Research I
+  Call #:    Instructor: Kumbaraci N
+  10337      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00010  Available: 00004
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA
+ 
+             Prerequisite(s):
+             Senior standing
+             Course note(s):
+             Senior students only.  CH 498 and 499 cannot be taken simultaneously.
+  
+  CH  499A   Chemical Research II
+  Call #:    Instructor: Kumbaraci N
+  10338      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00998
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA
+ 
+             Prerequisite(s):
+             Senior standing
+             Course note(s):
+             Senior students only.  CH 498 and 499 cannot be taken simultaneously.
+  
+  CH  501A   Prof Ethics in Chem&Sci; Research
+  Call #:    Instructor: Muisener P
+  10339      Credits:  1.00 -  1.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00020
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        05:00PM  05:50PM  McLean           510
+ 
+  
+  CH  550A   Spectra and Structure
+  Call #:    Instructor: Sharma A
+  11989      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00026  Available: 00015
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        06:15PM  08:45PM  McLean           218B
+ 
+  
+  CH  561A   Instrumental Methods of Analysis
+  Call #:    Instructor: Zhuk A
+  10340      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00012  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        06:15PM  08:45PM  McLean           218A
+ 
+             Prerequisite(s):
+             Admission to the graduate Chemistry or Chemical Biology program.
+  
+  CH  580A-U Biochemistry I
+  Call #:    Instructor: Paliwal S
+  11802      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00006
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             R        06:15PM  08:45PM  Kidde            228
+ 
+             Prerequisite(s):
+             CH243 or its equivalent
+  
+  
+
+CHE -   Chemical Engineering               (201)216-5546
+
+  CHE 210A   Process Analysis
+  Call #:    Instructor: Lawal A
+  10353      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00011
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        01:00PM  02:40PM  McLean           414
+             R        12:00PM  12:50PM  McLean           414
+ 
+             Prerequisite(s):
+             CH116, MA221 and E115
+  
+  CHE 210CA  Process Analysis
+  Call #:    Instructor: Kovenklioglu S
+  12426      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00000  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Prerequisite(s):
+             CH116, MA221 and E115
+  
+  CHE 234A   Chemical Eng. Thermodynamics
+  Call #:    Instructor: Zhao Y
+  10354      Credits:  4.00 -  4.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00100  Available: 00073
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             W        09:00AM  09:50AM  Burchard         715
+             R        11:00AM  11:50AM  Burchard         715
+ 
+             Prerequisite(s):
+             PEP111, CH115, and MA115
+  
+  CHE 234RA  Chemical Eng. Thermodynamics
+  Call #:    Instructor: Zhao Y
+  10355      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00013
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        03:00PM  04:40PM  McLean           414
+ 
+             Prerequisite(s):
+             PEP111, CH115, and MA115
+  
+  CHE 332A   Separation Operations
+  Call #:    Instructor: Akcora P
+  10356      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00100  Available: 00040
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        04:00PM  05:40PM  Babbio Center    104
+             R        09:00AM  09:50AM  Babbio Center    104
+ 
+             Prerequisite(s):
+             CHE210
+  
+  CHE 336A   Fluid Mechanics
+  Call #:    Instructor: Zhao Y
+  10357      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00064  Available: 00005
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             MW       12:00PM  12:50PM  Pierce           120
+             F        03:00PM  03:50PM  Pierce           120
+ 
+  
+  CHE 342A   Heat and Mass Transfer
+  Call #:    Instructor: Lee W
+  10358      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00100  Available: 00039
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             T        10:00AM  11:40AM  Babbio Center    122
+             R        10:00AM  10:50AM  Babbio Center    122
+ 
+             Prerequisite(s):
+             MA227 and CHE234
+  
+  CHE 423A   Engineering Design VII
+  Call #:    Instructor: Zhao Y
+  10359      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00050  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TR       03:00PM  05:00PM  Pierce           116
+ 
+             Prerequisite(s):
+             CHE322, CHE351 and CHE345.
+  
+  CHE 423X   Engineering Design VII
+  Call #:    Instructor: STAFF
+  10360      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00999  Available: 00999
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Prerequisite(s):
+             CHE322, CHE351 and CHE345.
+  
+  CHE 423X3  Engineering Design VII
+  Call #:    Instructor: STAFF
+  10361      Credits:  3.00 -  3.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00040  Available: 00040
+             Status: Open
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             TBA                        No Room Needed   N/A
+ 
+             Prerequisite(s):
+             CHE322, CHE351 and CHE345.
+  
+  CHE 432A   Chemical Engr'g Systems
+  Call #:    Instructor: Kovenklioglu S
+  10362      Credits:  2.00 -  2.00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00030  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        10:00AM  10:50AM  McLean           414
+ 
+             Prerequisite(s):
+             CHE332 and CHE351
+  
+  CHE 432LA  Chemical Engr'g Systems
+  Call #:    Instructor: Kovenklioglu S
+  10363      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00015  Available: 00000
+             Status: CLOSED
+ 
+             This section is offered at: Hoboken Campus
+             DAY      BEGINS   ENDS     BUILDING         ROOM
+             M        12:00PM  03:50PM  McLean           004
+ 
+             Prerequisite(s):
+             CHE332 and CHE351
+  
+  CHE 432LB  Chemical Engr'g Systems
+  Call #:    Instructor: Kovenklioglu S
+  10364      Credits:   .00 -   .00
+             Session: Normal Academic Term 08/29/2016-12/22/2016
+             Enrollment Cap: 00015  Available: 00000
+             Status: CLOSED
