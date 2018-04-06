@@ -1,4 +1,4 @@
 # EE551
 Python Class
 
-Daniel Pinto
+Daniel Pinto's work
