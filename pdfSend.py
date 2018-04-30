@@ -26,7 +26,7 @@ def sendPDF(fileName, email):
     attach.set_payload(payload)
     attach['Content-Transfer-Encoding'] = 'base64'
     fp.close()
-    attach.add_header('Content-Disposition', 'attachment', filename = 'file.pdf')
+    attach.add_header('Content-Disposition', 'attachment', filename = 'StudyPlan.pdf')
     msg.attach(attach)
     #End of found fix
 
